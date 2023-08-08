@@ -1,4 +1,10 @@
 ### Hi there 👋
+### :woman_technologist: About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">:
+- :telescope: Software Engineer, contributing to the frontend/backend for building web apps.
+- :basecampy: Exploring Open Source
+### My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=pravendra93&theme=ocean-gradient&hide_border=true&border_radius=5&card_width=481)](https://git.io/streak-stats)
 
 <!--
 **pravendra93/pravendra93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
